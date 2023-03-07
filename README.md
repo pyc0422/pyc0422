@@ -30,7 +30,7 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 
 *   🌍  I'm based in Chicago, IL
 *   ✉️  You can contact me at [yuchenpan422@gmail.com](mailto:yuchenpan422@gmail.com)
-*   🚀  I'm currently working on [BiteShare](http://biteshere.ecity.net)
+*   🚀  I'm currently working on [BiteShare](https://biteshere.ecity.net)
 *   🧠  I'm learning Python, React hooks, Redux
 
 ### Skills
