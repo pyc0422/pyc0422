@@ -69,7 +69,7 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 <a href="http://www.github.com/pyc0422"><img src="https://github-readme-stats.vercel.app/api?username=pyc0422&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=truet" alt="pyc0422's GitHub stats" /></a>
 
 <b>Top Repositories</b>
-https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats
+
 
 <div width="100%" align="center"><a href="https://github.com/pyc0422/biteshare" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyc0422&repo=biteshare&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" /></a><a href="https://github.com/pyc0422/Atelier-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pyc0422&repo=Atelier-frontend&theme=react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a></div><br /><br /><br /><br />
 <br /><br /><br />
