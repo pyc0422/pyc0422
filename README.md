@@ -32,7 +32,7 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 *   🖥️  See my portfolio at [Yuchen's playground](http://pyc0422.github.io)
 *   ✉️  You can contact me at [yuchenpan422@gmail.com](mailto:yuchenpan422@gmail.com)
 *   🚀  I'm currently working on [BiteShare](https://biteshare.ecitytech.net)
-*   🧠  I'm learning Python, React hooks, Redux
+*   🧠  I'm learning React hooks, Typescript
 
 ### Skills
 
