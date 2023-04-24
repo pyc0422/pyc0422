@@ -29,10 +29,10 @@ Full Stack Engineer
 I've been learn coding for 3 years. After I completed the Harvard CS50 course , I started learn python and javascript. Now I am specialize in Javascript, React and NodeJS.
 
 *   🌍  I'm based in Chicago, IL
-*   🖥️  See my portfolio at [Yuchen's playground](http://pyc0422.github.io)
+*   🖥️  See my portfolio at [YuchenPan.dev](https://yuchenpan.dev)
 *   ✉️  You can contact me at [yuchenpan422@gmail.com](mailto:yuchenpan422@gmail.com)
 *   🚀  I'm currently working on [BiteShare](https://biteshare.ecitytech.net)
-*   🧠  I'm learning React hooks, Typescript
+*   🧠  I'm learning Typescript
 
 ### Skills
 
