@@ -32,7 +32,7 @@ I've been learn coding for 3 years. After I completed the Harvard CS50 course , 
 *   🖥️  See my portfolio at [YuchenPan.dev](https://yuchenpan.dev)
 *   ✉️  You can contact me at [yuchenpan422@gmail.com](mailto:yuchenpan422@gmail.com)
 *   🚀  I'm currently working on [BiteShare](https://biteshare.ecitytech.net)
-*   🧠  I'm learning Typescript
+*   🧠  I'm learning Typescript, Firebase
 
 ### Skills
 
